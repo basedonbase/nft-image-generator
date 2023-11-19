@@ -14,6 +14,12 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
 
+```
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+python get-pip.py
+```
+
 3. Install requirements
 ```
 pip install -r requirements.txt
