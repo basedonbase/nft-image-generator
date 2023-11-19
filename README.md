@@ -25,7 +25,7 @@ python get-pip.py
 pip install -r requirements.txt
 ```
 
-4. Run Jupyter in your nft-image-generator folder
+4. Run Jupyter on your nft-image-generator folder
 ```
 jupyter notebook
 ```
